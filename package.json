@@ -1,0 +1,20 @@
+{
+  "name": "loopback-connector-blockapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blockapps-js": "^3.1.2",
+    "debug": "^2.2.0",
+    "lodash": "^4.16.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-loopback": "^4.0.0"
+  }
+}
